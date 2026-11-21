@@ -1,0 +1,10 @@
+{
+  "name": "GSP Gomezardo AI",
+  "short_name": "Gomezardo",
+  "description": "O teu assistente virtual GSP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030817",
+  "theme_color": "#030817",
+  "icons": [{"src":"/avatar-gomezardo.png","sizes":"1024x1536","type":"image/png","purpose":"any"}]
+}
